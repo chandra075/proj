@@ -10,4 +10,3 @@ if __name__ == '__main__':
     d= Dog("Tommy")
     Animals= [c,d]
     loop_demo(Animals)
-

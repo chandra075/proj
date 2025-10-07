@@ -5,7 +5,7 @@ class Animal:
         pass
 class Dog(Animal):
     def talk(self):
-        print( "Woof! Woof!")
+        print( self.name,"speaks Woof! Woof!")
 class Cat(Animal):
     def talk(self):
-        print("Meow! Meow!")
+        print(self.name,"speaks Meow! Meow!")

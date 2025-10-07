@@ -5,7 +5,7 @@
 from helpers import loop_demo
 from classes_types import *
 # Press the green button in the gutter to run the script.
-if __name__ == '__main__':
+if __name__ == '__main__':# Added a comment at 8 not in origin of feature_1 and changed again
     c = Cat("Kitty")
     d= Dog("Tommy")
     Animals= [c,d]

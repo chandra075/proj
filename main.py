@@ -10,3 +10,5 @@ if __name__ == '__main__':# Added a comment at 8 not in origin of feature_1 and 
     d= Dog("Tommy")
     Animals= [c,d]
     loop_demo(Animals)
+# A new line at 13 on 8th Oct 2025
+# Another new line at 14 on 8th Oct 2025

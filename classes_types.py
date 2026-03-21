@@ -9,3 +9,6 @@ class Dog(Animal):
 class Cat(Animal):
     def talk(self):
         print(self.name,"speaks Meow! Meow!")
+class Goat(Animal):
+    def talk(self):
+        print(self.name,"speaks me me")

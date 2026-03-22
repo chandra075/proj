@@ -9,7 +9,7 @@ if __name__ == '__main__':# Added a comment at 8 not in origin of feature_1 and 
     c = Cat("Kitty")
     d= Dog("Tommy")
     g = Goat("Meme")
-    Animals= [c,d,g]
+    Animals= [c,d,g] # added g = goat to Animals
     loop_demo(Animals)
 # A new line at 13 on 8th Oct 2025
 # Another new line at 14 on 8th Oct 2025
